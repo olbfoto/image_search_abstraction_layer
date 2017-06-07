@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/olbfoto/image_search_abstraction_layer#readme",
   "dependencies": {
-    "express": "^4.15.3"
+    "bl": "^1.2.1",
+    "express": "^4.15.3",
+    "mongod": "^2.0.0",
+    "mongodb": "^2.2.28"
   }
 }
